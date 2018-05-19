@@ -7,11 +7,11 @@
 	
 	Dann im eigenen Code:
 	
-	KlonOjbekt = MeineFunktionen.clone(Objekt);
+	KlonObjekt = MeineFunktionen.clone(Objekt);
 	
 	oder
 	
-	KlonOjbekt = Objekt.clone();
+	KlonObjekt = Objekt.clone();
 		
 */
 
