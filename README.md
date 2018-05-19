@@ -1,15 +1,16 @@
-# JavaScript_tief_Klonen
+# JavaScript tief Klonen
 
 ### Anleitung:
 	
-	Code Einbinden mit:
-    <script src="Tief_Klonen.js"></script>
-	
-	
-	***Dann im eigenen Code:***
-	
-	`KlonOjbekt = MeineFunktionen.clone(Objekt);`
-	
-	oder
-	
-	`KlonOjbekt = Objekt.clone();`
+- Code Einbinden mit:
+`<script src="Tief_Klonen.js"></script>`
+
+----
+
+***Dann im eigenen Code:***
+
+`KlonObjekt = MeineFunktionen.clone(Objekt);`
+
+oder
+
+`KlonObjekt = Objekt.clone();`
